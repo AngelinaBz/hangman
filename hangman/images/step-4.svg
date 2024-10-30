@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="298.232" height="291" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <line fill="none" id="svg_7" stroke="#000000" stroke-linecap="round" stroke-width="7" transform="matrix(1 0 0 1 0 0)" x1="52.6" x2="52.6" y1="18.44" y2="273.44"/>
+  <line fill="none" id="svg_15" stroke="#000000" stroke-linecap="round" stroke-width="7" x1="52.96" x2="107.4" y1="76.41" y2="19.74"/>
+  <line fill="none" id="svg_18" stroke="#000000" stroke-linecap="round" stroke-width="7" x1="38.51" x2="250.73" y1="16.41" y2="16.96"/>
+  <line fill="none" id="svg_19" stroke="#000000" stroke-linecap="round" stroke-width="7" x1="51.29" x2="12.96" y1="223.85" y2="273.3"/>
+  <line fill="none" id="svg_20" stroke="#000000" stroke-linecap="round" stroke-width="7" transform="rotate(105 72.1538 247.937)" x1="91.48" x2="53.15" y1="223.21" y2="272.66"/>
+  <line fill="none" id="svg_23" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" x1="206.93" x2="206.93" y1="16.94" y2="95.76"/>
+  <ellipse cx="206.61" cy="72.54" fill="#000000" id="svg_24" rx="17.69" ry="19.23" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" transform="matrix(0.999974 -0.00717726 0.00717726 0.999974 -0.5662 0.933058)"/>
+  <line fill="none" id="svg_25" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="204.62" x2="173.85" y1="97.22" y2="129.53"/>
+  <line fill="none" id="svg_26" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" transform="matrix(-0.0871557 0.996195 -0.996195 -0.0871557 354.006 -99.5969)" x1="239.55" x2="208.78" y1="95.58" y2="127.89"/>
+  <line fill="none" id="svg_1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="28" x1="206.45" x2="206.88" y1="104.57" y2="157.15"/>
+ </g>
+</svg>
